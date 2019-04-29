@@ -3,16 +3,19 @@ import com.heroicrobot.dropbit.devices.pixelpusher.Pixel;
 import com.heroicrobot.dropbit.devices.pixelpusher.Strip;
 
 
-void settings() {
 
+void settings()
+{
 }
 
 
-void setup() {
 
+void setup()
+{
 }
 
 
-void draw() {
 
+void draw()
+{
 }
